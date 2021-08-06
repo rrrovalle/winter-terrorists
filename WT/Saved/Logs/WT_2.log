@@ -1,0 +1,1417 @@
+﻿Log file open, 08/06/21 20:49:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: WT
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.386780
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Source/Maps/WT_Map -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=0 SAVEWINPOS=1 -ResX=1203 -ResY=686
+LogInit: Base Directory: F:/Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.06-23.49.58:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:914][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:931][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.06-23.49.58:931][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.06-23.49.58:932][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.06-23.49.58:933][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.06-23.49.58:933][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.06-23.49.58:933][  0]LogHAL: Display: Platform has ~ 12 GB [12833902592 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.06-23.49.58:933][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.06-23.49.58:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.06-23.49.58:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.06-23.49.58:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.06-23.49.58:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.06-23.49.58:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Workspace/Git/winter-terrorist/WT/Saved/Config/Windows/Editor.ini]
+[2021.08.06-23.49.58:935][  0]LogInit: Computer: DESKTOP-9TJ1HH3
+[2021.08.06-23.49.58:935][  0]LogInit: User: Felipe
+[2021.08.06-23.49.58:935][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.06-23.49.58:935][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.06-23.49.58:935][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2021.08.06-23.49.58:935][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.06-23.49.58:935][  0]LogMemory: Process Physical Memory: 142.89 MB used, 142.90 MB peak
+[2021.08.06-23.49.58:936][  0]LogMemory: Process Virtual Memory: 112.37 MB used, 112.37 MB peak
+[2021.08.06-23.49.58:936][  0]LogMemory: Physical Memory: 8843.51 MB used,  3395.86 MB free, 12239.36 MB total
+[2021.08.06-23.49.58:936][  0]LogMemory: Virtual Memory: 134205928.00 MB used,  11802.36 MB free, 134217728.00 MB total
+[2021.08.06-23.49.58:942][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.06-23.49.58:988][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.06-23.49.58:989][  0]LogInit: Using OS detected language (en-GB).
+[2021.08.06-23.49.58:989][  0]LogInit: Using OS detected locale (en-CA).
+[2021.08.06-23.49.58:992][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.08.06-23.49.59:230][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.06-23.49.59:258][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.06-23.49.59:258][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.06-23.49.59:287][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.06-23.49.59:287][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.06-23.49.59:287][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.06-23.49.59:287][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.06-23.49.59:384][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2021.08.06-23.49.59:384][  0]LogD3D11RHI:       2988/0/6119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.06-23.49.59:387][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.06-23.49.59:387][  0]LogD3D11RHI:       0/0/6119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.06-23.49.59:387][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.06-23.49.59:397][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.06-23.49.59:398][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.06-23.49.59:398][  0]LogWindows: EnumDisplayDevices:
+[2021.08.06-23.49.59:398][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2021.08.06-23.49.59:398][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2021.08.06-23.49.59:398][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.08.06-23.49.59:398][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2021.08.06-23.49.59:399][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.06-23.49.59:399][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2021.08.06-23.49.59:399][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.08.06-23.49.59:399][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.08.06-23.49.59:399][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2021.08.06-23.49.59:477][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.06-23.49.59:478][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.06-23.49.59:478][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.06-23.49.59:501][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.06-23.49.59:503][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.06-23.49.59:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.06-23.49.59:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.06-23.49.59:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.06-23.49.59:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.06-23.49.59:852][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.06-23.49.59:861][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.06-23.49.59:932][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.06-23.49.59:932][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Workspace/Git/winter-terrorist/WT/Intermediate/Shaders/WorkingDirectory/20504/).
+[2021.08.06-23.49.59:932][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felipe/AppData/Local/Temp/UnrealShaderWorkingDir/A3729DEE47555F99EAC455812F159C3E/'.
+[2021.08.06-23.49.59:932][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.06-23.49.59:932][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.06-23.50.00:737][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.06-23.50.00:796][  0]LogDerivedDataCache: Loaded boot cache 0.06s 103MB C:/Users/Felipe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.06-23.50.00:796][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felipe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.06-23.50.00:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Workspace/Git/winter-terrorist/WT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.06-23.50.00:796][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.06-23.50.00:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Workspace/Git/winter-terrorist/WT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.06-23.50.00:796][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.06-23.50.00:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.06-23.50.00:809][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.06-23.50.00:809][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.06-23.50.00:818][  0]LogDerivedDataCache: Speed tests for C:/Users/Felipe/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.06-23.50.00:818][  0]LogDerivedDataCache: Display: Performance to C:/Users/Felipe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1079.90MBs, RandomWriteSpeed=120.49MBs. Assigned SpeedClass 'Local'
+[2021.08.06-23.50.00:819][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felipe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.06-23.50.00:819][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.06-23.50.00:819][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.06-23.50.00:870][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.06-23.50.00:870][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.06-23.50.00:984][  0]LogInit: Using OS detected language (en-GB).
+[2021.08.06-23.50.00:984][  0]LogInit: Using OS detected locale (en-CA).
+[2021.08.06-23.50.00:984][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2021.08.06-23.50.00:984][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2021.08.06-23.50.00:984][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.08.06-23.50.00:984][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.08.06-23.50.00:985][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2021.08.06-23.50.00:989][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.08.06-23.50.01:168][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.000848 seconds
+[2021.08.06-23.50.01:227][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.06-23.50.01:227][  0]LogInit: Active device profile: [000002EB96F22300][000002EB8D669D00 49] Windows
+[2021.08.06-23.50.01:227][  0]LogInit: Profiles: [000002EB96F22300][000002EB8D669D00 49] Windows, [000002EB96EB7000][000002EB8D6701C0 49] WindowsNoEditor, [000002EB96F21000][000002EB8D674340 49] WindowsServer, [000002EB96EB5500][000002EB8D6784C0 49] WindowsClient, [000002EB96F22700][000002EB8D67C640 49] IOS, [000002EB96EB4500][000002EB90EC27C0 49] iPadAir, [000002EB96F22100][000002EB90EC6940 49] iPadAir2, [000002EB96E66600][000002EB90ECEC00 49] IPadPro, [000002EB96E66700][000002EB90ECAC40 49] iPadAir3, [000002EB96EB4B00][000002EB90ED2DC0 49] iPadAir4, [000002EB96E67E00][000002EB90ED6F40 49] iPadMini2, [000002EB96EB7F00][000002EB8D66D080 49] iPadMini3, [000002EB96E65600][000002EB90EDB1C0 49] iPadMini4, [000002EB96EB6600][000002EB90EDF300 49] iPadMini5, [000002EB96E79F00][000002EB90EEB580 49] iPhone6, [000002EB96E7A000][000002EB90EE35C0 49] iPodTouch6, [000002EB96E65A00][000002EB90EF3880 49] iPhone7, [000002EB96E65900][000002EB90EEF8C0 49] iPodTouch7, [000002EB96E7B600][000002EB90EF7A40 49] iPhone5S, [000002EB96E65100][000002EB90EFBBC0 49] iPhone6Plus, [000002EB96E79800][000002EB90EFFD40 49] iPhone6S, [000002EB96E66D00][000002EB90F02200 49] iPhone6SPlus, [000002EB96E78900][000002EB90F06380 49] iPhone7Plus, [000002EB96E66400][000002EB90F0A500 49] iPhoneSE, [000002EB96E7B200][000002EB90F0E680 49] iPhone8, [000002EB96E64800][000002EB90F12800 49] iPhone8Plus, [000002EB96E7AC00][000002EB90F16980 49] iPhoneX, [000002EB96E64D00][000002EB90F1AB00 49] iPhoneXS, [000002EB96E7A600][000002EB90F1EC80 49] iPhoneXSMax, [000002EB96E66F00][000002EB90F22E00 49] iPhoneXR, [000002EB96E7B700][000002EB90F26F80 49] iPhone11, [000002EB96E67800][000002EB90F2B100 49] iPhone11Pro, [000002EB96E7A900][000002EB90EE7240 49] iPhone11ProMax, [000002EB96E67300][000002EB90F2F380 49] iPhoneSE2, [000002EB96E78700][000002EB90F334C0 49] iPhone12Mini, [000002EB96E66500][000002EB90F3B640 49] iPhone12, [000002EB96E78600][000002EB90F3F7C0 49] iPhone12Pro, [000002EB96E7AE00][000002EB90F43940 49] iPhone12ProMax, [000002EB96F21E00][000002EB90F47AC0 49] iPadPro105, [000002EB96E7B900][000002EB90F4BC40 49] iPadPro129, [000002EB96F22600][000002EB90F4E100 49] iPadPro97, [000002EB96E78C00][000002EB90F52280 49] iPadPro2_129, [000002EB96F23900][000002EB90F56400 49] iPad5, [000002EB96E7BF00][000002EB90F5A580 49] iPad6, [000002EB96E64600][000002EB90F5E700 49] iPad7, [000002EB96E79E00][000002EB90F62880 49] iPad8, [000002EB96E64E00][000002EB90F66A00 49] iPadPro11, [000002EB96E78A00][000002EB90F6AB80 49] iPadPro2_11, [000002EB96E67F00][000002EB90F6ED00 49] iPadPro3_129, [000002EB96E7B300][000002EB90F72E80 49] iPadPro4_129, [000002EB96E65C00][000002EB90F77000 49] AppleTV, [000002EB96E7A200][000002EB90F7B180 49] AppleTV4K, [000002EB96E67000][000002EB90F372C0 49] TVOS, [000002EB96E79D00][000002EB90F7F400 49] Mac, [000002EB96E67100][000002EB90F83540 49] MacClient, [000002EB96E7A300][000002EB90F8B6C0 49] MacNoEditor, [000002EB96E64A00][000002EB90F8F840 49] MacServer, [000002EB96E7BD00][000002EB90F939C0 49] Linux, [000002EB96E67A00][000002EB90F97B40 49] LinuxAArch64, [000002EB96E7B000][000002EB90F9BCC0 49] LinuxNoEditor, [000002EB96E65400][000002EB90F9E180 49] LinuxAArch64NoEditor, [000002EB96E79500][000002EB90FA2300 49] LinuxClient, [000002EB96E67900][000002EB90FA6480 49] LinuxAArch64Client, [000002EB96E78E00][000002EB90FAA600 49] LinuxServer, [000002EB96E67700][000002EB90FAE780 49] LinuxAArch64Server, [000002EB96E7B500][000002EB90FB2900 49] Android, [000002EB96E64F00][000002EB90FB6A80 49] Android_Low, [000002EB96E79000][000002EB90FBAC00 49] Android_Mid, [000002EB96E66200][000002EB90FBED80 49] Android_High, [000002EB96E7A400][000002EB90FC2F00 49] Android_Default, [000002EB96E64300][000002EB90FC7080 49] Android_Adreno4xx, [000002EB96E79C00][000002EB90FCB200 49] Android_Adreno5xx_Low, [000002EB96E65E00][000002EB90F87340 49] Android_Adreno5xx, [000002EB96E78100][000002EB90FCF480 49] Android_Adreno6xx, [000002EB96E66C00][000002EB90FD35C0 49] Android_Adreno6xx_Vulkan, [000002EB96E78F00][000002EB90FD7700 49] Android_Mali_T6xx, [000002EB96E65800][000002EB90FDF880 49] Android_Mali_T7xx, [000002EB96E79B00][000002EB90FE3A00 49] Android_Mali_T8xx, [000002EB96E65B00][000002EB90FE7B80 49] Android_Mali_G71, [000002EB96E7A100][000002EB90FEBD00 49] Android_Mali_G72, [000002EB96E66E00][000002EB90FEE1C0 49] Android_Mali_G72_Vulkan, [000002EB96E78D00][000002EB90FF2340 49] Android_Mali_G76, [000002EB96E64200][000002EB90FF64C0 49] Android_Mali_G76_Vulkan, [000002EB96E79300][000002EB90FFA640 49] Android_Mali_G77, [000002EB96E66800][000002EB90FFE7C0 49] Android_Mali_G77_Vulkan, [000002EB96E7AF00][000002EB91002940 49] Android_Vulkan_SM5, [000002EB96F22F00][000002EB91006AC0 49] Android_PowerVR_G6xxx, [000002EB96EB7300][000002EB9100AC40 49] Android_PowerVR_GT7xxx, [000002EB96F20500][000002EB9100EDC0 49] Android_PowerVR_GE8xxx, [000002EB96EB4600][000002EB91012F40 49] Android_PowerVR_GM9xxx, [000002EB96F22800][000002EB910170C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002EB96EB4D00][000002EB9101B240 49] Android_TegraK1, [000002EB96F22E00][000002EB90FDB380 49] Android_Unknown_Vulkan, [000002EB96EB5300][000002EB9101F4C0 49] Lumin, [000002EB96F20300][000002EB91023600 49] Lumin_Desktop, [000002EB96EB7500][000002EB91027740 49] HoloLens, 
+[2021.08.06-23.50.01:280][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.06-23.50.01:280][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.06-23.50.01:280][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.06-23.50.01:280][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.06-23.50.01:280][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.06-23.50.01:371][  0]LogNetVersion: WT 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4068069153)
+[2021.08.06-23.50.01:658][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.06-23.50.01:780][  0]LogMoviePlayer: Initializing movie player
+[2021.08.06-23.50.01:937][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.06-23.50.01:941][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.06-23.50.02:178][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.06-23.50.02:198][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.06-23.50.02:198][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.06-23.50.02:242][  0]SourceControl: Source control is disabled
+[2021.08.06-23.50.02:242][  0]SourceControl: Source control is disabled
+[2021.08.06-23.50.02:245][  0]SourceControl: Source control is disabled
+[2021.08.06-23.50.02:272][  0]LogUProjectInfo: Found projects:
+[2021.08.06-23.50.02:310][  0]LogOcInput: OculusInput pre-init called
+[2021.08.06-23.50.02:317][  0]LogUObjectArray: 20225 objects as part of root set at end of initial load.
+[2021.08.06-23.50.02:317][  0]LogUObjectAllocator: 5386384 out of 0 bytes used by permanent object pool.
+[2021.08.06-23.50.02:317][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.06-23.50.02:366][  0]LogEngine: Initializing Engine...
+[2021.08.06-23.50.02:368][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.06-23.50.02:368][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.06-23.50.02:369][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.06-23.50.02:462][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.06-23.50.02:462][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.06-23.50.02:467][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.06-23.50.02:467][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.06-23.50.02:467][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.06-23.50.02:467][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.06-23.50.02:467][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.06-23.50.02:481][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-23.50.02:481][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-23.50.02:503][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2021.08.06-23.50.02:509][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.06-23.50.02:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.06-23.50.02:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.06-23.50.02:511][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.06-23.50.02:511][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.06-23.50.02:511][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.06-23.50.02:512][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.06-23.50.02:512][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.06-23.50.02:512][  0]LogInit: FAudioDevice initialized.
+[2021.08.06-23.50.02:514][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.06-23.50.02:514][  0]LogInit: Texture streaming: Enabled
+[2021.08.06-23.50.02:763][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.06-23.50.02:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-23.50.02:774][  0]LogInit: Display: Game Engine Initialized.
+[2021.08.06-23.50.02:784][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.08.06-23.50.02:855][  0]LogInit: Display: Starting Game.
+[2021.08.06-23.50.02:855][  0]LogNet: Browse: /Game/Source/Maps/WT_Map?Name=Player
+[2021.08.06-23.50.02:855][  0]LogLoad: LoadMap: /Game/Source/Maps/WT_Map?Name=Player
+[2021.08.06-23.50.02:855][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.08.06-23.50.02:856][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-23.50.02:856][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-23.50.02:877][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.06-23.50.02:879][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.06-23.50.05:173][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'WT_Map'.
+[2021.08.06-23.50.05:192][  0]LogAIModule: Creating AISystem for world WT_Map
+[2021.08.06-23.50.05:421][  0]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.06-23.50.05:434][  0]LogWorld: Bringing World /Game/Source/Maps/WT_Map.WT_Map up for play (max tick rate 0) at 2021.08.06-20.50.05
+[2021.08.06-23.50.05:435][  0]LogWorld: Bringing up level for play took: 0.004556
+[2021.08.06-23.50.05:445][  0]LogLoad: Took 2.590712 seconds to LoadMap(/Game/Source/Maps/WT_Map)
+[2021.08.06-23.50.05:581][  0]LogRenderer: Reallocating scene render targets to support 1204x688 Format 10 NumSamples 1 (Frame:1).
+[2021.08.06-23.50.05:581][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.06-23.50.05:581][  0]LogLoad: (Engine Initialization) Total time: 7.78 seconds
+[2021.08.06-23.50.05:581][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.06-23.50.05:581][  0]LogInit: First time updating LLM stats...
+[2021.08.06-23.50.05:595][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.06-23.50.05:604][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-23.50.15:306][486]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:311][487]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:316][488]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:321][489]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:326][490]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:333][491]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:338][492]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:343][493]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:348][494]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:353][495]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:358][496]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:364][497]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:368][498]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:374][499]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:379][500]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:384][501]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:389][502]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:395][503]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:400][504]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:405][505]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:410][506]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:415][507]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:420][508]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:425][509]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:430][510]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:435][511]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:440][512]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:445][513]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:450][514]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:456][515]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:461][516]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:467][517]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:471][518]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:476][519]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:482][520]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:487][521]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:491][522]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:497][523]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:501][524]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:506][525]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:511][526]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:517][527]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:522][528]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:527][529]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.15:532][530]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:525][844]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:531][845]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:537][846]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:544][847]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:550][848]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:556][849]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:563][850]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:569][851]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:576][852]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:582][853]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:588][854]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:594][855]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:601][856]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:606][857]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:612][858]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:618][859]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:625][860]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:631][861]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:637][862]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:644][863]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:651][864]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:657][865]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:663][866]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:669][867]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:675][868]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:681][869]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:687][870]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:694][871]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:699][872]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:705][873]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:712][874]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:718][875]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:725][876]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:730][877]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:737][878]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:742][879]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.17:748][880]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.18:191][952]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:857][272]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:862][273]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:867][274]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:872][275]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:877][276]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:882][277]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:886][278]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:891][279]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:897][280]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:901][281]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:907][282]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:913][283]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:918][284]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:924][285]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:928][286]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:933][287]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:939][288]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:944][289]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:949][290]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:954][291]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:959][292]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:965][293]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:970][294]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:976][295]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:981][296]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:986][297]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:992][298]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.19:996][299]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:002][300]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:007][301]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:012][302]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:017][303]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:021][304]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:027][305]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:032][306]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:037][307]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:043][308]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:048][309]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:053][310]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:058][311]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:063][312]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:068][313]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:073][314]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:078][315]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:083][316]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:088][317]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:094][318]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:100][319]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:105][320]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:111][321]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:116][322]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:121][323]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:126][324]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:131][325]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:136][326]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:141][327]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:146][328]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:151][329]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:156][330]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:163][331]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:167][332]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:172][333]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:177][334]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:182][335]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:187][336]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:193][337]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:198][338]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:203][339]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:207][340]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:212][341]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:217][341]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Source/Maps/WT_Map.WT_Map:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.06-23.50.20:217][341]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Source/Maps/WT_Map.WT_Map:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.06-23.50.20:220][342]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:224][343]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:229][344]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:234][345]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:239][346]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:245][347]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:249][348]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:254][349]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:260][350]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:265][351]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:270][352]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:275][353]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:281][354]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:287][355]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:294][356]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.20:300][357]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Source/Maps/WT_Map.WT_Map:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.06-23.50.20:300][357]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Source/Maps/WT_Map.WT_Map:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.06-23.50.21:025][473]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:690][761]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:695][762]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:702][763]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:706][764]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:711][765]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:716][766]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:721][767]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:726][768]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:731][769]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:736][770]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:741][771]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:746][772]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:751][773]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:756][774]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:762][775]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:768][776]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:772][777]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:778][778]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:782][779]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:787][780]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:792][781]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:797][782]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:802][783]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:807][784]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:812][785]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:817][786]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:823][787]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:829][788]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:834][789]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:839][790]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:844][791]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:849][792]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:854][793]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:859][794]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:864][795]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:869][796]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:875][797]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:880][798]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:885][799]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:891][800]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:896][801]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:901][802]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:906][803]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:911][804]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:916][805]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:921][806]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:926][807]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:931][808]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:936][809]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:942][810]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:948][811]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:953][812]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:958][813]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:962][814]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:968][815]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:973][816]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:978][817]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:983][818]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:989][819]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:994][820]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.22:999][821]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:004][822]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:010][823]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:015][824]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:021][825]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:026][826]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:031][827]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:036][828]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:041][829]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:046][830]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:051][831]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:056][832]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:061][833]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:067][834]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:072][835]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:077][836]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:082][837]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:087][838]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:092][839]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:097][840]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:102][841]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:107][842]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:112][843]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:117][844]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:122][845]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:127][846]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.23:914][977]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:585][276]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:590][277]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:596][278]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:601][279]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:607][280]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:613][281]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:617][282]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:623][283]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:628][284]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:632][285]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:638][286]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:643][287]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:648][288]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:653][289]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:658][290]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:664][291]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:669][292]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:674][293]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:679][294]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:685][295]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:690][296]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:695][297]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:700][298]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:705][299]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:710][300]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:715][301]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:720][302]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:726][303]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:732][304]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:737][305]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:742][306]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:746][307]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:751][308]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:757][309]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:762][310]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:767][311]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:772][312]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:777][313]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:782][314]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:787][315]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:794][316]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:798][317]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:803][318]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:808][319]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:813][320]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:818][321]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:823][322]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:829][323]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:834][324]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:839][325]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:844][326]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:850][327]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:856][328]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:860][329]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:865][330]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:870][331]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:875][332]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:880][333]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:885][334]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:891][335]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:896][336]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:900][337]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:906][338]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:912][339]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:917][340]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:922][341]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:927][342]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:932][343]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:937][344]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:942][345]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:947][346]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:952][347]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:958][348]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:962][349]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:968][350]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:974][351]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:979][352]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:984][353]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:989][354]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:995][355]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.25:999][356]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.26:004][357]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.26:009][358]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.26:014][359]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.26:019][360]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.26:318][414]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:360][747]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:366][748]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:372][749]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:378][750]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:384][751]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:389][752]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:396][753]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:402][754]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:407][755]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:414][756]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:420][757]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:426][758]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:433][759]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:439][760]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:445][761]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:451][762]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:457][763]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:463][764]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:469][765]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:476][766]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:481][767]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:487][768]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:494][769]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:499][770]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:506][771]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:513][772]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:519][773]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:525][774]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:530][775]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:536][776]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:542][777]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:548][778]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:555][779]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:561][780]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:566][781]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:573][782]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:579][783]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:586][784]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:592][785]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:597][786]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:603][787]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:609][788]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:615][789]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:621][790]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:627][791]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:634][792]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:640][793]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:646][794]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:654][795]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:659][796]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:665][797]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:672][798]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:677][799]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:683][800]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:689][801]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:695][802]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:701][803]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:707][804]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:713][805]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:719][806]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:726][807]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:733][808]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:738][809]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:744][810]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:750][811]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:757][812]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:763][813]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:769][814]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:775][815]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:780][816]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:787][817]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.28:793][818]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.06-23.50.34:935][782]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Source/Maps/WT_Map.WT_Map:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.06-23.50.35:000][794]LogWindowsDesktop: Alt-F4 pressed!
+[2021.08.06-23.50.35:012][794]LogSlate: Window 'WT (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.08.06-23.50.35:012][794]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.06-23.50.35:017][794]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.06-23.50.35:018][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-23.50.35:018][794]LogEngine: All Windows Closed
+[2021.08.06-23.50.35:019][794]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.08.06-23.50.35:019][794]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.06-23.50.35:019][795]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.08.06-23.50.35:019][795]LogInit: Display: PreExit Game.
+[2021.08.06-23.50.35:029][795]LogWorld: BeginTearingDown for /Game/Source/Maps/WT_Map
+[2021.08.06-23.50.35:030][795]LogWorld: UWorld::CleanupWorld for WT_Map, bSessionEnded=true, bCleanupResources=true
+[2021.08.06-23.50.35:039][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.06-23.50.35:387][795]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.08.06-23.50.35:387][795]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.08.06-23.50.35:387][795]LogAudio: Display: Audio Device unregistered from world 'WT_Map'.
+[2021.08.06-23.50.35:413][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-23.50.35:413][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.06-23.50.35:426][795]LogAudio: Display: Audio Device Manager Shutdown
+[2021.08.06-23.50.35:427][795]LogExit: Preparing to exit.
+[2021.08.06-23.50.35:976][795]LogMoviePlayer: Shutting down movie player
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22300] Windows
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22400] Default__DeviceProfile
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB7000] WindowsNoEditor
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F21000] WindowsServer
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB5500] WindowsClient
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22700] IOS
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB4500] iPadAir
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22100] iPadAir2
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66600] IPadPro
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66700] iPadAir3
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB4B00] iPadAir4
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67E00] iPadMini2
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB7F00] iPadMini3
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65600] iPadMini4
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB6600] iPadMini5
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79F00] iPhone6
+[2021.08.06-23.50.36:066][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A000] iPodTouch6
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65A00] iPhone7
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65900] iPodTouch7
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B600] iPhone5S
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65100] iPhone6Plus
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79800] iPhone6S
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66D00] iPhone6SPlus
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78900] iPhone7Plus
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66400] iPhoneSE
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B200] iPhone8
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64800] iPhone8Plus
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7AC00] iPhoneX
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64D00] iPhoneXS
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A600] iPhoneXSMax
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66F00] iPhoneXR
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B700] iPhone11
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67800] iPhone11Pro
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A900] iPhone11ProMax
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67300] iPhoneSE2
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78700] iPhone12Mini
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66500] iPhone12
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78600] iPhone12Pro
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7AE00] iPhone12ProMax
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F21E00] iPadPro105
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B900] iPadPro129
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22600] iPadPro97
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78C00] iPadPro2_129
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F23900] iPad5
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7BF00] iPad6
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64600] iPad7
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79E00] iPad8
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64E00] iPadPro11
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78A00] iPadPro2_11
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67F00] iPadPro3_129
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B300] iPadPro4_129
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65C00] AppleTV
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A200] AppleTV4K
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67000] TVOS
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79D00] Mac
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67100] MacClient
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A300] MacNoEditor
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64A00] MacServer
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7BD00] Linux
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67A00] LinuxAArch64
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B000] LinuxNoEditor
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65400] LinuxAArch64NoEditor
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79500] LinuxClient
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67900] LinuxAArch64Client
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78E00] LinuxServer
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E67700] LinuxAArch64Server
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7B500] Android
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64F00] Android_Low
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79000] Android_Mid
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66200] Android_High
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A400] Android_Default
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64300] Android_Adreno4xx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79C00] Android_Adreno5xx_Low
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65E00] Android_Adreno5xx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78100] Android_Adreno6xx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66C00] Android_Adreno6xx_Vulkan
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78F00] Android_Mali_T6xx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65800] Android_Mali_T7xx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79B00] Android_Mali_T8xx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E65B00] Android_Mali_G71
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7A100] Android_Mali_G72
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66E00] Android_Mali_G72_Vulkan
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E78D00] Android_Mali_G76
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E64200] Android_Mali_G76_Vulkan
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E79300] Android_Mali_G77
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E66800] Android_Mali_G77_Vulkan
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96E7AF00] Android_Vulkan_SM5
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22F00] Android_PowerVR_G6xxx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB7300] Android_PowerVR_GT7xxx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F20500] Android_PowerVR_GE8xxx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB4600] Android_PowerVR_GM9xxx
+[2021.08.06-23.50.36:067][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22800] Android_PowerVR_GM9xxx_Vulkan
+[2021.08.06-23.50.36:068][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB4D00] Android_TegraK1
+[2021.08.06-23.50.36:068][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F22E00] Android_Unknown_Vulkan
+[2021.08.06-23.50.36:068][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB5300] Lumin
+[2021.08.06-23.50.36:068][795]LogDeviceProfile: Device profile begin destroy: [000002EB96F20300] Lumin_Desktop
+[2021.08.06-23.50.36:068][795]LogDeviceProfile: Device profile begin destroy: [000002EB96EB7500] HoloLens
+[2021.08.06-23.50.36:075][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.06-23.50.36:118][795]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.06-23.50.36:119][795]LogExit: Game engine shut down
+[2021.08.06-23.50.36:181][795]LogExit: Object subsystem successfully closed.
+[2021.08.06-23.50.36:209][795]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (508)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module SequenceRecorder (506)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module AutomationController (504)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module AutomationWorker (502)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module Voice (500)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module AIModule (498)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module GameplayDebugger (497)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module AITestSuite (495)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module NavigationSystem (493)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module AnimGraph (490)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module SteamVREditor (488)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module ToolMenus (487)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module OculusMR (484)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (482)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (480)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (478)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (476)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module WebMMedia (474)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (472)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (470)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (468)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module PlanarCut (466)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module CharacterAI (464)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module SessionServices (462)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (460)
+[2021.08.06-23.50.36:218][795]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (442)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module AudioMixerCore (441)
+[2021.08.06-23.50.36:219][795]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2021.08.06-23.50.36:221][795]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module OculusInput (432)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (430)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (428)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (426)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (424)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (422)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (420)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module UObjectPlugin (418)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (416)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module HotReload (415)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (414)
+[2021.08.06-23.50.36:373][795]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (410)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (408)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module SourceControl (407)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module Synthesis (404)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (400)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module EditableMesh (398)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GooglePAD (396)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AssetTags (390)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (387)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (382)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AppleImageUtils (380)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module TemplateSequence (374)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MotoSynth (368)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MeshConversion (366)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module DynamicMesh (364)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (362)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometricObjects (360)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (358)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (357)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (354)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (353)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (346)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module ChaosNiagara (344)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (343)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module BackChannel (340)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AutomationUtils (338)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (336)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (334)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (332)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (330)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (328)
+[2021.08.06-23.50.36:374][795]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (326)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (324)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (322)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (320)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapController (318)
+[2021.08.06-23.50.36:374][795]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (316)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module MagicLeapAR (314)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AugmentedReality (313)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (310)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (308)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module SoundFields (306)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module SignificanceManager (304)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (302)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (300)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (296)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (294)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (292)
+[2021.08.06-23.50.36:374][795]LogModuleManager: Shutting down and abandoning module UdpMessaging (290)
+[2021.08.06-23.50.36:475][795]LogModuleManager: Shutting down and abandoning module TcpMessaging (288)
+[2021.08.06-23.50.36:958][795]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2021.08.06-23.50.36:958][795]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (284)
+[2021.08.06-23.50.36:958][795]LogModuleManager: Shutting down and abandoning module Niagara (282)
+[2021.08.06-23.50.36:958][795]LogModuleManager: Shutting down and abandoning module SignalProcessing (281)
+[2021.08.06-23.50.36:958][795]LogModuleManager: Shutting down and abandoning module NiagaraEditor (279)
+[2021.08.06-23.50.36:958][795]LogModuleManager: Shutting down and abandoning module NiagaraCore (276)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module AnimationSharing (274)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module TreeMap (267)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (264)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (262)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module Paper2D (260)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2021.08.06-23.50.36:959][795]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (229)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module UMG (226)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module UMGEditor (225)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2021.08.06-23.50.36:960][795]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module Messaging (204)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (202)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (200)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module XAudio2 (198)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module Networking (196)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module Core (194)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module MaterialEditor (192)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module MovieSceneTools (190)
+[2021.08.06-23.50.36:961][795]LogModuleManager: Shutting down and abandoning module EditorStyle (189)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MeshBuilder (184)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (179)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (164)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (162)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (143)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (127)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (125)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (123)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (121)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module InputCore (118)
+[2021.08.06-23.50.36:962][795]LogModuleManager: Shutting down and abandoning module Settings (116)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.08.06-23.50.36:963][795]LogHMD: Freeing OpenVRDLLHandle.
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module MLSDK (96)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module MagicLeap (94)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module ChunkDownloader (88)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2021.08.06-23.50.36:963][795]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2021.08.06-23.50.36:976][795]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2021.08.06-23.50.36:976][795]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.08.06-23.50.36:981][795]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2021.08.06-23.50.36:982][795]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2021.08.06-23.50.36:983][795]LogModuleManager: Shutting down and abandoning module Media (67)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.08.06-23.50.36:984][795]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.08.06-23.50.36:985][795]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.08.06-23.50.37:275][795]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.08.06-23.50.37:276][795]LogD3D11RHI: Shutdown
+[2021.08.06-23.50.37:276][795]LogD3D11RHI: CleanupD3DDevice
+[2021.08.06-23.50.37:285][795]LogExit: Exiting.
+[2021.08.06-23.50.37:316][795]Log file closed, 08/06/21 20:50:37
