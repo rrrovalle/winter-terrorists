@@ -1,0 +1,1538 @@
+﻿Log file open, 08/09/21 15:26:59
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: WT
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.518327
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.09-18.27.00:766][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.09-18.27.00:766][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.09-18.27.00:767][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.09-18.27.00:768][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.09-18.27.00:768][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.09-18.27.00:768][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.09-18.27.00:768][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.09-18.27.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:779][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.09-18.27.00:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.09-18.27.00:780][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:780][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.09-18.27.00:781][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.09-18.27.00:781][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.09-18.27.00:781][  0]LogHAL: Display: Platform has ~ 8 GB [8530825216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.09-18.27.00:781][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.09-18.27.00:781][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.09-18.27.00:781][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.09-18.27.00:782][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.09-18.27.00:783][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.09-18.27.00:784][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.09-18.27.00:784][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.09-18.27.00:784][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.09-18.27.00:784][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Engine.ini]
+[2021.08.09-18.27.00:784][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Config/Windows/Editor.ini]
+[2021.08.09-18.27.00:784][  0]LogInit: Computer: DESKTOP-4SM8UFT
+[2021.08.09-18.27.00:784][  0]LogInit: User: viniv
+[2021.08.09-18.27.00:784][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.09-18.27.00:784][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.09-18.27.00:784][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.08.09-18.27.00:784][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.09-18.27.00:784][  0]LogMemory: Process Physical Memory: 134.39 MB used, 134.40 MB peak
+[2021.08.09-18.27.00:784][  0]LogMemory: Process Virtual Memory: 118.27 MB used, 118.27 MB peak
+[2021.08.09-18.27.00:784][  0]LogMemory: Physical Memory: 4934.19 MB used,  3201.44 MB free, 8135.63 MB total
+[2021.08.09-18.27.00:784][  0]LogMemory: Virtual Memory: 134212832.00 MB used,  4892.46 MB free, 134217728.00 MB total
+[2021.08.09-18.27.00:789][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.09-18.27.00:836][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.09-18.27.00:837][  0]LogInit: Using OS detected language (pt-BR).
+[2021.08.09-18.27.00:837][  0]LogInit: Using OS detected locale (pt-BR).
+[2021.08.09-18.27.00:872][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2021.08.09-18.27.00:872][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2021.08.09-18.27.00:872][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.08.09-18.27.00:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.08.09-18.27.00:884][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.09-18.27.00:896][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.09-18.27.00:908][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.09-18.27.00:908][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.09-18.27.01:060][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.09-18.27.01:060][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.09-18.27.01:060][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.09-18.27.01:060][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.09-18.27.01:180][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.08.09-18.27.01:180][  0]LogD3D11RHI:       4018/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.09-18.27.01:182][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.09-18.27.01:182][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.09-18.27.01:182][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.09-18.27.01:188][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.09-18.27.01:188][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.09-18.27.01:188][  0]LogWindows: EnumDisplayDevices:
+[2021.08.09-18.27.01:188][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.08.09-18.27.01:188][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.09-18.27.01:189][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.09-18.27.01:189][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.08.09-18.27.01:189][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.09-18.27.01:189][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.08.09-18.27.01:189][  0]LogD3D11RHI:   Driver Version: 466.47 (internal:27.21.14.6647, unified:466.47)
+[2021.08.09-18.27.01:189][  0]LogD3D11RHI:      Driver Date: 5-13-2021
+[2021.08.09-18.27.01:189][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.08.09-18.27.01:282][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.09-18.27.01:282][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.09-18.27.01:282][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.09-18.27.01:300][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.09-18.27.01:302][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.09-18.27.01:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.09-18.27.01:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.09-18.27.01:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.09-18.27.01:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.09-18.27.01:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.09-18.27.01:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.09-18.27.01:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.09-18.27.01:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.09-18.27.01:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.09-18.27.01:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.09-18.27.01:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.09-18.27.01:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.09-18.27.01:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.09-18.27.01:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.09-18.27.01:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.09-18.27.01:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.09-18.27.01:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.09-18.27.01:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.09-18.27.01:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.09-18.27.01:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.09-18.27.01:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.09-18.27.02:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.09-18.27.02:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.09-18.27.02:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.09-18.27.02:025][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.09-18.27.02:033][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.09-18.27.02:096][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.09-18.27.02:096][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Intermediate/Shaders/WorkingDirectory/7744/).
+[2021.08.09-18.27.02:097][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/viniv/AppData/Local/Temp/UnrealShaderWorkingDir/A7AC091247C9651E0EE0E697B24334B1/'.
+[2021.08.09-18.27.02:097][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.09-18.27.02:097][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.09-18.27.02:955][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.09-18.27.03:034][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/viniv/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.09-18.27.03:034][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/viniv/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.09-18.27.03:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.09-18.27.03:051][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.09-18.27.03:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.09-18.27.03:051][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.09-18.27.03:064][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.09-18.27.03:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.09-18.27.03:064][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.09-18.27.03:292][  0]LogDerivedDataCache: Speed tests for C:/Users/viniv/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.23 seconds
+[2021.08.09-18.27.03:292][  0]LogDerivedDataCache: Display: Performance to C:/Users/viniv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=4.59MBs, RandomWriteSpeed=38.32MBs. Assigned SpeedClass 'Local'
+[2021.08.09-18.27.03:293][  0]LogDerivedDataCache: Using Local data cache path C:/Users/viniv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.09-18.27.03:293][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.09-18.27.03:293][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.09-18.27.03:378][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.09-18.27.03:490][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.09-18.27.03:600][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2021.08.09-18.27.03:856][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.09-18.27.03:856][  0]LogInit: Active device profile: [00000278A8A9EF00][00000278891FDAC0 49] Windows
+[2021.08.09-18.27.03:856][  0]LogInit: Profiles: [00000278A8A9EF00][00000278891FDAC0 49] Windows, [00000278A8A75300][0000027889205C40 49] WindowsNoEditor, [00000278A8A9D300][0000027889208100 49] WindowsServer, [00000278A8A76800][00000278A6A2A280 49] WindowsClient, [00000278A8A9E700][00000278A6A2E400 49] IOS, [00000278A8A75B00][00000278A6A32580 49] iPadAir, [00000278A8A9DA00][00000278A6A36700 49] iPadAir2, [00000278A9A2C300][000002789FFD89C0 49] IPadPro, [00000278A9A2C400][00000278A6A3AA00 49] iPadAir3, [00000278A8A9F200][000002789FFDCB80 49] iPadAir4, [00000278A9A2EA00][000002789FFE0D00 49] iPadMini2, [00000278A8A9D000][000002789FFE4E80 49] iPadMini3, [00000278A9A2C700][000002789FFE9000 49] iPadMini4, [00000278A8A9C700][000002789FFED180 49] iPadMini5, [00000278A9A23B00][000002789FFF5440 49] iPhone6, [00000278A9A23C00][000002789FFF1480 49] iPodTouch6, [00000278A9A2EC00][0000027889201700 49] iPhone7, [00000278A9A2EB00][000002789FFF9740 49] iPodTouch7, [00000278A9A21700][000002789FFFD880 49] iPhone5S, [00000278A9A2CF00][00000278A00019C0 49] iPhone6Plus, [00000278A9A23D00][00000278A0005B00 49] iPhone6S, [00000278A9A2C800][00000278A000DC80 49] iPhone6SPlus, [00000278A9A21400][00000278A0010140 49] iPhone7Plus, [00000278A9A2E300][00000278A00142C0 49] iPhoneSE, [00000278A9A20A00][00000278A0018440 49] iPhone8, [00000278A9A2E700][00000278A001C5C0 49] iPhone8Plus, [00000278A9A21800][00000278A0020740 49] iPhoneX, [00000278A9A2E200][00000278A00248C0 49] iPhoneXS, [00000278A9A20B00][00000278A0028A40 49] iPhoneXSMax, [00000278A9A2CC00][00000278A002CBC0 49] iPhoneXR, [00000278A9A23E00][00000278A0030D40 49] iPhone11, [00000278A9A2C900][00000278A0034EC0 49] iPhone11Pro, [00000278A9A23900][00000278A0039040 49] iPhone11ProMax, [00000278A9A2DF00][00000278A003D1C0 49] iPhoneSE2, [00000278A9A21B00][00000278A0041340 49] iPhone12Mini, [00000278A9A2ED00][00000278A00454C0 49] iPhone12, [00000278A9A21F00][00000278A0049640 49] iPhone12Pro, [00000278A9A2F700][00000278A004D7C0 49] iPhone12ProMax, [00000278A9A23700][00000278A0009900 49] iPadPro105, [00000278A9A2D800][00000278A0051A40 49] iPadPro129, [00000278A9A20D00][00000278A0055B80 49] iPadPro97, [00000278A9A2CA00][00000278A9C2DD00 49] iPadPro2_129, [00000278A9A23000][00000278A9C301C0 49] iPad5, [00000278A9A2FA00][00000278A9C34340 49] iPad6, [00000278A9A20C00][00000278A9C384C0 49] iPad7, [00000278A9A2C500][00000278A9C3C640 49] iPad8, [00000278A9A22B00][00000278A9C407C0 49] iPadPro11, [00000278A9A2C100][00000278A9C44940 49] iPadPro2_11, [00000278A9A20800][00000278A9C48AC0 49] iPadPro3_129, [00000278A9A2D700][00000278A9C4CC40 49] iPadPro4_129, [00000278A9A21A00][00000278A9C50DC0 49] AppleTV, [00000278A9A2D500][00000278A9C54F40 49] AppleTV4K, [00000278A9A23100][00000278A9C590C0 49] TVOS, [00000278A9A2D900][00000278A9C5D240 49] Mac, [00000278A9A21900][00000278A9C613C0 49] MacClient, [00000278A9A2E100][00000278A9C65540 49] MacNoEditor, [00000278A8A77A00][00000278A9C696C0 49] MacServer, [00000278A9A22900][00000278A9C6D840 49] Linux, [00000278A8AF4F00][00000278A9C29980 49] LinuxAArch64, [00000278A9A22300][00000278A9C71AC0 49] LinuxNoEditor, [00000278A8AF4600][00000278A9C75C00 49] LinuxAArch64NoEditor, [00000278A9A22100][00000278A9C7C0C0 49] LinuxClient, [00000278A8AF4700][00000278A9C80240 49] LinuxAArch64Client, [00000278A9A20700][00000278A9C843C0 49] LinuxServer, [00000278A8AF5600][00000278A9C88540 49] LinuxAArch64Server, [00000278A9A20600][00000278A9C8C6C0 49] Android, [00000278A8AF4200][00000278A9C90840 49] Android_Low, [00000278A9A20900][00000278A9C949C0 49] Android_Mid, [00000278A9A2D600][00000278A9C98B40 49] Android_High, [00000278A9A20200][00000278A9C9CCC0 49] Android_Default, [00000278A9A2E600][00000278A9CA0E40 49] Android_Adreno4xx, [00000278A9A23200][00000278A9CA4FC0 49] Android_Adreno5xx_Low, [00000278A9A2FF00][00000278A9CA9140 49] Android_Adreno5xx, [00000278A9A22600][00000278A9CAD2C0 49] Android_Adreno6xx, [00000278A9A2DB00][00000278A9CB1440 49] Android_Adreno6xx_Vulkan, [00000278A9A23300][00000278A9CB55C0 49] Android_Mali_T6xx, [00000278A9A2D400][00000278A9CB9740 49] Android_Mali_T7xx, [00000278A9A23800][00000278A9CBD8C0 49] Android_Mali_T8xx, [00000278A9A2FE00][00000278A9C79A00 49] Android_Mali_G71, [00000278A9A20500][00000278A9CC1B40 49] Android_Mali_G72, [00000278A9A2F300][00000278A9CC5C80 49] Android_Mali_G72_Vulkan, [00000278A9A21600][00000278A9CC8100 49] Android_Mali_G76, [00000278A9A2E500][00000278A9CD0280 49] Android_Mali_G76_Vulkan, [00000278A9A23400][00000278A9CD4400 49] Android_Mali_G77, [00000278A9A2F800][00000278A9CD8580 49] Android_Mali_G77_Vulkan, [00000278A9A22E00][00000278A9CDC700 49] Android_Vulkan_SM5, [00000278A9A2E900][00000278A9CE0880 49] Android_PowerVR_G6xxx, [00000278A9A22700][00000278A9CE4A00 49] Android_PowerVR_GT7xxx, [00000278A9A2F900][00000278A9CE8B80 49] Android_PowerVR_GE8xxx, [00000278A9A22F00][00000278A9CECD00 49] Android_PowerVR_GM9xxx, [00000278A9A2C200][00000278A9CF0E80 49] Android_PowerVR_GM9xxx_Vulkan, [00000278A9A22D00][00000278A9CF5000 49] Android_TegraK1, [00000278A9A2CD00][00000278A9CF9180 49] Android_Unknown_Vulkan, [00000278A9A21100][00000278A9CFD300 49] Lumin, [00000278A9A2FB00][00000278A9D01480 49] Lumin_Desktop, [00000278A9A22A00][00000278A9D05600 49] HoloLens, 
+[2021.08.09-18.27.04:053][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.09-18.27.04:053][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.09-18.27.04:053][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.09-18.27.04:053][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.09-18.27.04:054][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.09-18.27.04:151][  0]LogNetVersion: WT 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4068069153)
+[2021.08.09-18.27.04:848][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.09-18.27.06:141][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 2 prioritized culture(s) in 1.292765 seconds
+[2021.08.09-18.27.06:160][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.09-18.27.06:160][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.09-18.27.06:160][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.09-18.27.07:156][  0]LogPython: Using Python 3.7.7
+[2021.08.09-18.27.08:821][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.09-18.27.08:826][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.09-18.27.08:977][  0]SourceControl: Controle de origem desativado
+[2021.08.09-18.27.08:977][  0]SourceControl: Controle de origem desativado
+[2021.08.09-18.27.08:981][  0]SourceControl: Controle de origem desativado
+[2021.08.09-18.27.08:984][  0]SourceControl: Controle de origem desativado
+[2021.08.09-18.27.08:993][  0]SourceControl: Controle de origem desativado
+[2021.08.09-18.27.09:010][  0]LogUProjectInfo: Found projects:
+[2021.08.09-18.27.09:493][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.09-18.27.09:666][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.09-18.27.09:666][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.09-18.27.09:826][  0]LogCollectionManager: Loaded 0 collections in 0.030939 seconds
+[2021.08.09-18.27.09:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Collections/' took 0.00s
+[2021.08.09-18.27.09:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Developers/viniv/Collections/' took 0.00s
+[2021.08.09-18.27.09:878][  0]LogFileCache: Scanning file cache for directory 'C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Collections/' took 0.00s
+[2021.08.09-18.27.09:878][  0]LogOcInput: OculusInput pre-init called
+[2021.08.09-18.27.09:894][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.09-18.27.09:894][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.09-18.27.10:329][  0]LogEngine: Initializing Engine...
+[2021.08.09-18.27.10:584][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.09-18.27.10:606][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.09-18.27.10:608][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.09-18.27.10:780][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.09-18.27.10:792][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.09-18.27.10:810][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.09-18.27.10:815][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.09-18.27.10:815][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.27.10:815][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.27.10:815][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.27.10:816][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.27.10:816][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.27.10:830][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.27.10:830][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.27.10:865][  0]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.27.10:870][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.27.10:872][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.27.10:872][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.27.10:874][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.27.10:874][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.27.10:874][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.27.10:876][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.27.10:876][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.27.10:876][  0]LogInit: FAudioDevice initialized.
+[2021.08.09-18.27.10:876][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.09-18.27.10:876][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.09-18.27.11:591][  0]LogDerivedDataCache: Saved boot cache 0.71s 77MB C:/Users/viniv/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.09-18.27.11:591][  0]LogInit: Texture streaming: Enabled
+[2021.08.09-18.27.11:610][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.09-18.27.11:615][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.09-18.27.11:615][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.09-18.27.11:646][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.09-18.27.11:691][  0]LogInit: Transaction tracking system initialized
+[2021.08.09-18.27.11:763][  0]BlueprintLog: New page: Carregar Editor
+[2021.08.09-18.27.11:890][  0]LocalizationService: Localization service is disabled
+[2021.08.09-18.27.11:916][  0]TimingProfiler: Initialize
+[2021.08.09-18.27.11:917][  0]TimingProfiler: OnSessionChanged
+[2021.08.09-18.27.11:917][  0]LoadingProfiler: Initialize
+[2021.08.09-18.27.11:917][  0]LoadingProfiler: OnSessionChanged
+[2021.08.09-18.27.11:917][  0]NetworkingProfiler: Initialize
+[2021.08.09-18.27.11:917][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.09-18.27.11:917][  0]MemoryProfiler: Initialize
+[2021.08.09-18.27.11:917][  0]MemoryProfiler: OnSessionChanged
+[2021.08.09-18.27.12:352][  0]LogFileCache: Scanning file cache for directory 'C:/Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/' took 0.02s
+[2021.08.09-18.27.12:352][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.09-18.27.12:352][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.09-18.27.12:748][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.09-18.27.12:752][  0]SourceControl: Controle de origem desativado
+[2021.08.09-18.27.12:752][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.270
+[2021.08.09-18.27.12:752][  0]Cmd: MAP LOAD FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.09-18.27.12:871][  0]LightingResults: New page: Compilação de Iluminação
+[2021.08.09-18.27.12:875][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.27.12:875][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.27.12:875][  0]MapCheck: New page: Verificação de Mapa
+[2021.08.09-18.27.12:875][  0]LightingResults: New page: Compilação de Iluminação
+[2021.08.09-18.27.12:895][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.08.09-18.27.38:812][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.27.38:815][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.27.38:855][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.09-18.27.38:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.08.09-18.27.38:947][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.09-18.27.38:947][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,229ms to complete.
+[2021.08.09-18.27.38:947][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 26.195
+[2021.08.09-18.27.38:954][  0]LogUnrealEdMisc: Total Editor Startup Time, took 40.472
+[2021.08.09-18.27.39:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.27.39:801][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.27.39:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.27.39:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.27.40:031][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0189 seconds. Added 3628 classes and 872 folders.
+[2021.08.09-18.27.40:109][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.08.09-18.27.40:305][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.09-18.27.40:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-18.27.40:313][  0]LogPakFile: OnPakFileMounted2Time == 0.007503
+[2021.08.09-18.27.40:339][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.09-18.27.40:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.09-18.27.40:339][  0]LogPakFile: OnPakFileMounted2Time == 0.007509
+[2021.08.09-18.27.40:348][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.09-18.27.40:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.09-18.27.40:348][  0]LogPakFile: OnPakFileMounted2Time == 0.007513
+[2021.08.09-18.27.40:356][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-18.27.40:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-18.27.40:356][  0]LogPakFile: OnPakFileMounted2Time == 0.007518
+[2021.08.09-18.27.40:373][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.09-18.27.40:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.09-18.27.40:373][  0]LogPakFile: OnPakFileMounted2Time == 0.007523
+[2021.08.09-18.27.40:378][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.09-18.27.40:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.09-18.27.40:378][  0]LogPakFile: OnPakFileMounted2Time == 0.007526
+[2021.08.09-18.27.40:384][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.09-18.27.40:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.09-18.27.40:384][  0]LogPakFile: OnPakFileMounted2Time == 0.007530
+[2021.08.09-18.27.40:390][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.09-18.27.40:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.09-18.27.40:390][  0]LogPakFile: OnPakFileMounted2Time == 0.007534
+[2021.08.09-18.27.40:399][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.09-18.27.40:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.09-18.27.40:399][  0]LogPakFile: OnPakFileMounted2Time == 0.007538
+[2021.08.09-18.27.40:405][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.09-18.27.40:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.09-18.27.40:405][  0]LogPakFile: OnPakFileMounted2Time == 0.007542
+[2021.08.09-18.27.40:476][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.09-18.27.40:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.09-18.27.40:476][  0]LogPakFile: OnPakFileMounted2Time == 0.007551
+[2021.08.09-18.27.40:499][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.09-18.27.40:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.09-18.27.40:499][  0]LogPakFile: OnPakFileMounted2Time == 0.007557
+[2021.08.09-18.27.40:518][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-18.27.40:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-18.27.40:518][  0]LogPakFile: OnPakFileMounted2Time == 0.007563
+[2021.08.09-18.27.40:533][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.09-18.27.40:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.09-18.27.40:533][  0]LogPakFile: OnPakFileMounted2Time == 0.007566
+[2021.08.09-18.27.40:548][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.09-18.27.40:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.09-18.27.40:548][  0]LogPakFile: OnPakFileMounted2Time == 0.007570
+[2021.08.09-18.27.40:554][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.09-18.27.40:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-18.27.40:554][  0]LogPakFile: OnPakFileMounted2Time == 0.007574
+[2021.08.09-18.27.40:569][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.09-18.27.40:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.09-18.27.40:569][  0]LogPakFile: OnPakFileMounted2Time == 0.007578
+[2021.08.09-18.27.40:587][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.09-18.27.40:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.09-18.27.40:587][  0]LogPakFile: OnPakFileMounted2Time == 0.007582
+[2021.08.09-18.27.40:593][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-18.27.40:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-18.27.40:593][  0]LogPakFile: OnPakFileMounted2Time == 0.007585
+[2021.08.09-18.27.40:606][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-18.27.40:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-18.27.40:606][  0]LogPakFile: OnPakFileMounted2Time == 0.007589
+[2021.08.09-18.27.40:619][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.09-18.27.40:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-18.27.40:620][  0]LogPakFile: OnPakFileMounted2Time == 0.007593
+[2021.08.09-18.27.40:637][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.09-18.27.40:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.09-18.27.40:637][  0]LogPakFile: OnPakFileMounted2Time == 0.007598
+[2021.08.09-18.27.40:647][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.09-18.27.40:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.09-18.27.40:647][  0]LogPakFile: OnPakFileMounted2Time == 0.007602
+[2021.08.09-18.27.40:678][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.09-18.27.40:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.09-18.27.40:678][  0]LogPakFile: OnPakFileMounted2Time == 0.007605
+[2021.08.09-18.27.40:684][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-18.27.40:684][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:684][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-18.27.40:684][  0]LogPakFile: OnPakFileMounted2Time == 0.007609
+[2021.08.09-18.27.40:698][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.09-18.27.40:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-18.27.40:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.09-18.27.40:698][  0]LogPakFile: OnPakFileMounted2Time == 0.007613
+[2021.08.09-18.27.42:091][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.08.09-18.27.42:132][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2021.08.09-18.27.43:175][  0]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.09-18.27.43:182][  0]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.09-18.27.43:278][  0]LogSlate: Took 0.019021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.09-18.27.44:059][  0]LogRenderer: Reallocating scene render targets to support 716x360 Format 10 NumSamples 1 (Frame:1).
+[2021.08.09-18.27.45:631][  0]LogSlate: Took 0.021063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.09-18.27.45:752][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.09-18.27.45:754][  0]LogInput: Warning: Action JumpAction uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.09-18.27.45:754][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.09-18.27.45:754][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.09-18.27.45:754][  0]LogLoad: (Engine Initialization) Total time: 47.27 seconds
+[2021.08.09-18.27.45:754][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.09-18.27.45:754][  0]LogInit: First time updating LLM stats...
+[2021.08.09-18.27.45:849][  0]LogAssetRegistry: Asset discovery search completed in 42.2511 seconds
+[2021.08.09-18.27.45:851][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.09-18.27.45:936][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.09-18.27.46:856][ 21]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.09-18.28.50:384][568]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.28.50:987][568]LogBlueprintEditor: Perf: 0.5 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.08.09-18.28.50:987][568]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.08.09-18.28.52:099][568]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2021.08.09-18.28.54:561][568]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.09-18.28.55:333][569]LogSlate: Took 0.038248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.09-18.29.28:319][383]LogRenderer: Reallocating scene render targets to support 716x436 Format 10 NumSamples 1 (Frame:1).
+[2021.08.09-18.29.31:780][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Source/Character/HealthSystem/PlayerHealth_Component.PlayerHealth_Component
+[2021.08.09-18.29.56:852][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.09-18.29.56:899][363]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.09-18.29.56:910][363]LogPlayLevel: [PlayLevel] Compiling PlayerHealth_Component before play...
+[2021.08.09-18.29.57:077][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.09-18.29.57:085][363]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2021.08.09-18.29.57:154][363]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (9 de ago de 2021 12:29:57)
+[2021.08.09-18.29.57:174][363]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.09-18.29.57:187][363]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.09-18.29.57:216][363]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.29.57:315][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099157s)
+[2021.08.09-18.29.57:330][363]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.29.57:331][363]LogPlayLevel: PIE: World Init took: (0.015258s)
+[2021.08.09-18.29.57:331][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.114751s)
+[2021.08.09-18.29.57:385][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.08.09-18.29.57:410][363]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.09-18.29.57:410][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.29.57:410][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.29.57:410][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.29.57:411][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.29.57:411][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.29.57:411][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.29.57:411][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.29.57:411][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.29.57:411][363]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.29.57:411][363]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.29.57:421][363]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.29.57:421][363]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.29.57:445][363]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.29.57:445][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.29.57:445][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.29.57:445][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.29.57:446][363]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.29.57:446][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.29.57:446][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.29.57:468][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.29.57:468][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.29.57:468][363]LogInit: FAudioDevice initialized.
+[2021.08.09-18.29.57:468][363]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.29.57:518][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.29.57:556][363]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.09-18.29.57:634][363]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.09-15.29.57
+[2021.08.09-18.29.57:656][363]LogWorld: Bringing up level for play took: 0.023964
+[2021.08.09-18.29.57:660][363]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.08.09-18.29.57:798][363]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2021.08.09-18.29.57:878][363]PIE: Servidor conectado
+[2021.08.09-18.29.57:881][363]PIE: Play in editor total start time 1,023 seconds.
+[2021.08.09-18.29.58:076][364]LogRenderer: Reallocating scene render targets to support 1204x688 Format 10 NumSamples 1 (Frame:1).
+[2021.08.09-18.29.59:369][415]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/AdvancedLocomotionV4/Audio/Footsteps/Footstep_Cue.Footstep_Cue was zero and has changed. Consider manually Re-saving the asset
+[2021.08.09-18.30.18:477][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.30.18:477][802]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.30.18:478][802]LogSlate: Window 'WT Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.30.18:511][802]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.30.18:522][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.30.18:547][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.30.18:569][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.30.18:658][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.30.18:660][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.30.18:784][802]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.08.09-18.30.18:813][803]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.08.09-18.31.28:566][927]LogSlate: Window 'PlayerHealth_Component' being destroyed
+[2021.08.09-18.31.29:250][  8]BlueprintLog: New page: Compilar PlayerHealth_Component
+[2021.08.09-18.31.29:329][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.08.09-18.31.29:489][  8]LogSlate: Took 0.069464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.09-18.31.29:869][ 31]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/PlayerHealth_ComponentA7439F9E45AC60FC2064F5999CBFBF3D.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/HealthSystem/PlayerHealth_Component.uasset'
+[2021.08.09-18.31.29:898][ 31]AssetCheck: New page: Asset Save: PlayerHealth_Component
+[2021.08.09-18.31.29:898][ 31]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/HealthSystem/PlayerHealth_Component.PlayerHealth_Component
+[2021.08.09-18.31.46:318][ 63]BlueprintLog: New page: Compilar PlayerHealth_Component
+[2021.08.09-18.31.46:389][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.08.09-18.31.46:802][100]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/PlayerHealth_Component9E2813EE4E34057F367D3CB033D2D441.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/HealthSystem/PlayerHealth_Component.uasset'
+[2021.08.09-18.31.46:820][100]AssetCheck: New page: Asset Save: PlayerHealth_Component
+[2021.08.09-18.31.46:820][100]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/HealthSystem/PlayerHealth_Component.PlayerHealth_Component
+[2021.08.09-18.32.10:238][765]BlueprintLog: New page: Compilar PlayerHealth_Component
+[2021.08.09-18.32.10:315][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.08.09-18.32.11:137][850]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/PlayerHealth_Component9960C75C4F53545BC9EDDFBD026BC31C.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/HealthSystem/PlayerHealth_Component.uasset'
+[2021.08.09-18.32.11:157][850]AssetCheck: New page: Asset Save: PlayerHealth_Component
+[2021.08.09-18.32.11:157][850]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/HealthSystem/PlayerHealth_Component.PlayerHealth_Component
+[2021.08.09-18.32.12:026][942]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.32.12:155][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.08.09-18.32.12:593][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.32.12:627][977]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character0A84793141384CC05D62B8823F58860B.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.32.12:672][977]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.32.12:672][977]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.32.13:757][ 98]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.09-18.32.13:764][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.32.13:764][ 98]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (9 de ago de 2021 12:32:13)
+[2021.08.09-18.32.13:764][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.32.13:776][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012456s)
+[2021.08.09-18.32.13:778][ 98]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.32.13:778][ 98]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2021.08.09-18.32.13:778][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014261s)
+[2021.08.09-18.32.13:825][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.09-18.32.13:825][ 98]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.32.13:825][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.32.13:825][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.32.13:826][ 98]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.32.13:826][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.32.13:831][ 98]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.32.13:831][ 98]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.32.13:843][ 98]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.32.13:843][ 98]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.32.13:843][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.32.13:843][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.32.13:844][ 98]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.32.13:844][ 98]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.32.13:844][ 98]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.32.13:845][ 98]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.32.13:845][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.32.13:845][ 98]LogInit: FAudioDevice initialized.
+[2021.08.09-18.32.13:845][ 98]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.32.13:893][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.32.13:893][ 98]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.09-18.32.13:894][ 98]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.09-15.32.13
+[2021.08.09-18.32.13:895][ 98]LogWorld: Bringing up level for play took: 0.001099
+[2021.08.09-18.32.13:895][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.08.09-18.32.13:912][ 98]PIE: Servidor conectado
+[2021.08.09-18.32.13:913][ 98]PIE: Play in editor total start time 0,151 seconds.
+[2021.08.09-18.32.18:943][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.32.18:943][624]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.32.18:943][624]LogSlate: Window 'WT Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.32.18:949][624]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.32.18:950][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.32.18:957][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.32.18:963][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.32.19:002][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.32.19:002][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.32.19:003][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.32.19:027][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.08.09-18.32.19:042][625]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.08.09-18.35.01:620][498]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.35.01:713][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.08.09-18.35.02:367][565]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.35.02:367][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.35.02:736][600]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.35.02:736][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.35.07:532][969]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.09-18.35.07:544][969]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.09-18.35.16:587][ 54]LogContentBrowser: Attempting asset rename: NewFolder -> StaminaSystem
+[2021.08.09-18.35.16:588][ 54]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.09-18.35.35:356][548]LogSlate: Window 'Selecionar Classe Pai' being destroyed
+[2021.08.09-18.35.35:393][548]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.09-18.35.35:404][548]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.09-18.35.38:296][895]LogContentBrowser: Attempting asset rename: NewBlueprint -> Stamina_Component
+[2021.08.09-18.35.38:324][895]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.09-18.35.40:172][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.09-18.35.40:204][ 98]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/ThirdPersonExampleMap2D7206374E51D2BF85F52DBDEEB9495A.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.09-18.35.40:654][ 98]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/ThirdPersonExampleMap_BuiltData445B2AEC44CA6A821AE9F9A874B9BAD3.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.09-18.35.40:678][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.09-18.35.40:678][ 98]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.09-18.35.40:678][ 98]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.09-18.36.23:184][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.36.24:831][530]LogSlate: Window 'Stamina_Component' being destroyed
+[2021.08.09-18.36.25:393][596]BlueprintLog: New page: Compilar Stamina_Component
+[2021.08.09-18.36.25:459][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.08.09-18.36.25:778][628]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Stamina_Component1608B68F4F548E87D72A79824951EC3C.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/StaminaSystem/Stamina_Component.uasset'
+[2021.08.09-18.36.25:790][628]AssetCheck: New page: Asset Save: Stamina_Component
+[2021.08.09-18.36.25:791][628]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.36.28:688][960]BlueprintLog: New page: Compilar Stamina_Component
+[2021.08.09-18.36.28:719][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.08.09-18.36.29:173][  8]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Stamina_ComponentF3EE26D64948C6CABA6500989E17849B.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/StaminaSystem/Stamina_Component.uasset'
+[2021.08.09-18.36.29:183][  8]AssetCheck: New page: Asset Save: Stamina_Component
+[2021.08.09-18.36.29:183][  8]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.37.25:153][ 46]LogSlate: Took 0.020269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.09-18.37.26:885][246]BlueprintLog: New page: Compilar Stamina_Component
+[2021.08.09-18.37.26:919][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.08.09-18.37.27:344][293]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Stamina_Component853581074B3B453136E81B9950411A3B.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/StaminaSystem/Stamina_Component.uasset'
+[2021.08.09-18.37.27:357][293]AssetCheck: New page: Asset Save: Stamina_Component
+[2021.08.09-18.37.27:357][293]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.37.32:394][879]BlueprintLog: New page: Compilar Stamina_Component
+[2021.08.09-18.37.32:428][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.08.09-18.37.32:813][917]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Stamina_ComponentCFEE96B8468585A1BFB0758FED41D712.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/StaminaSystem/Stamina_Component.uasset'
+[2021.08.09-18.37.32:826][917]AssetCheck: New page: Asset Save: Stamina_Component
+[2021.08.09-18.37.32:826][917]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.37.36:451][223]BlueprintLog: New page: Compilar Stamina_Component
+[2021.08.09-18.37.36:482][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.08.09-18.37.36:860][263]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Stamina_Component39575498492FF6BE8C19399748530363.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/StaminaSystem/Stamina_Component.uasset'
+[2021.08.09-18.37.36:888][263]AssetCheck: New page: Asset Save: Stamina_Component
+[2021.08.09-18.37.36:888][263]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.37.39:930][569]LogEditorTransaction: Undo Adicionar Nó
+[2021.08.09-18.38.08:455][569]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.09-18.38.47:239][973]BlueprintLog: New page: Compilar Stamina_Component
+[2021.08.09-18.38.47:279][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.08.09-18.38.47:660][ 12]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Stamina_ComponentE578B3F44B950B2566384B964702FB44.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/StaminaSystem/Stamina_Component.uasset'
+[2021.08.09-18.38.47:674][ 12]AssetCheck: New page: Asset Save: Stamina_Component
+[2021.08.09-18.38.47:675][ 12]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/StaminaSystem/Stamina_Component.Stamina_Component
+[2021.08.09-18.38.53:541][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.40.45:756][404]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.40.45:861][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.08.09-18.40.46:309][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.40.46:335][446]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_CharacterCF92F74246BFF9EFDB4E7DA67A6CE0AF.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.40.46:360][446]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.40.46:360][446]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.41.12:600][722]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.41.12:688][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.09-18.41.13:087][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.41.13:113][755]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character1091EA744B0A43D7AED35A9F430CFF43.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.41.13:135][755]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.41.13:135][755]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.41.37:946][139]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.41.38:032][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.08.09-18.41.38:631][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.41.38:657][197]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character98C6E3F247A14A1830CAF3A14FEE21B1.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.41.38:679][197]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.41.38:679][197]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.42.56:757][460]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.42.56:843][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.08.09-18.42.57:272][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.42.57:300][500]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character39BB302A4B0BEEBAD34BB49386753C3A.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.42.57:321][500]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.42.57:321][500]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.43.12:063][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Source/Character/HealthSystem/PlayerHealth_Component.PlayerHealth_Component
+[2021.08.09-18.43.14:279][253]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.43.14:279][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.43.30:750][574]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Source/Character/HealthSystem/BPI_Player.BPI_Player
+[2021.08.09-18.43.44:380][168]BlueprintLog: New page: Compilar BPI_Player
+[2021.08.09-18.43.44:433][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.08.09-18.43.44:849][210]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BPI_Player28F379D946B70751B3651E982148AC2B.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/HealthSystem/BPI_Player.uasset'
+[2021.08.09-18.43.44:867][210]AssetCheck: New page: Asset Save: BPI_Player
+[2021.08.09-18.43.44:867][210]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/HealthSystem/BPI_Player.BPI_Player
+[2021.08.09-18.44.02:945][ 98]BlueprintLog: New page: Compilar BPI_Player
+[2021.08.09-18.44.02:985][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.08.09-18.44.03:581][162]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BPI_Player612343CF490A34C89B040A899EBD69BA.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/HealthSystem/BPI_Player.uasset'
+[2021.08.09-18.44.03:593][162]AssetCheck: New page: Asset Save: BPI_Player
+[2021.08.09-18.44.03:593][162]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/HealthSystem/BPI_Player.BPI_Player
+[2021.08.09-18.44.07:390][435]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.44.07:390][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.44.09:761][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.08.09-18.44.09:811][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.44.09:838][670]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character49A7C1E54C794C8F866A0F8DCC2953EB.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.44.09:859][670]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.44.09:859][670]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.44.57:646][111]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.44.57:729][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.08.09-18.44.58:366][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.44.58:394][175]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character7BEF70B94E1CBAB58511BEB1BA8D555A.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.44.58:418][175]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.44.58:418][175]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.45.15:413][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.08.09-18.45.15:431][541]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/ThirdPersonExampleMap3E73A87C44887E2816A8AE8AFB5166B3.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.09-18.45.15:552][541]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/ThirdPersonExampleMap_BuiltDataE117D5424EFEC0D52400BAA48CD968FF.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.09-18.45.15:564][541]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.09-18.45.15:564][541]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.09-18.45.15:564][541]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.09-18.45.17:724][789]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Source/HUD/Player_UI.Player_UI
+[2021.08.09-18.45.30:547][437]LogSlate: Took 0.053814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.09-18.45.54:670][412]BlueprintLog: New page: Compilar Player_UI
+[2021.08.09-18.45.54:821][412]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.08.09-18.45.55:370][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/HUD/Player_UI" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/HUD/Player_UI.uasset" SILENT=true
+[2021.08.09-18.45.55:388][467]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Player_UI4863EFFD462D5C55F72D28BD7B716EB1.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/HUD/Player_UI.uasset'
+[2021.08.09-18.45.55:402][467]AssetCheck: New page: Asset Save: Player_UI
+[2021.08.09-18.45.55:402][467]LogContentValidation: Display: Validating WidgetBlueprint /Game/Source/HUD/Player_UI.Player_UI
+[2021.08.09-18.46.48:257][931]BlueprintLog: New page: Compilar Player_UI
+[2021.08.09-18.46.48:342][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.08.09-18.46.48:824][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/HUD/Player_UI" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/HUD/Player_UI.uasset" SILENT=true
+[2021.08.09-18.46.48:842][981]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Player_UI339B81514B21175295EA54AC8364649B.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/HUD/Player_UI.uasset'
+[2021.08.09-18.46.48:860][981]AssetCheck: New page: Asset Save: Player_UI
+[2021.08.09-18.46.48:860][981]LogContentValidation: Display: Validating WidgetBlueprint /Game/Source/HUD/Player_UI.Player_UI
+[2021.08.09-18.47.19:419][167]LogSlate: Window 'Seletor de Cor' being destroyed
+[2021.08.09-18.47.20:521][290]BlueprintLog: New page: Compilar Player_UI
+[2021.08.09-18.47.20:600][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.08.09-18.47.20:918][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/HUD/Player_UI" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/HUD/Player_UI.uasset" SILENT=true
+[2021.08.09-18.47.20:938][320]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/Player_UI6BF6A89E4A606C7340FE5BB7844E0745.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/HUD/Player_UI.uasset'
+[2021.08.09-18.47.20:954][320]AssetCheck: New page: Asset Save: Player_UI
+[2021.08.09-18.47.20:954][320]LogContentValidation: Display: Validating WidgetBlueprint /Game/Source/HUD/Player_UI.Player_UI
+[2021.08.09-18.47.22:071][432]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.47.22:075][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.47.22:083][432]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.47.22:084][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.47.34:747][783]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.09-18.47.34:753][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.47.34:753][783]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (9 de ago de 2021 12:47:34)
+[2021.08.09-18.47.34:754][783]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.47.34:768][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014487s)
+[2021.08.09-18.47.34:769][783]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.47.34:770][783]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2021.08.09-18.47.34:770][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016031s)
+[2021.08.09-18.47.34:824][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.08.09-18.47.34:825][783]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.47.34:825][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.47.34:825][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.47.34:826][783]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.47.34:826][783]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.47.34:831][783]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.47.34:831][783]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.47.34:844][783]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.47.34:844][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.47.34:844][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.47.34:844][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.47.34:845][783]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.47.34:845][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.47.34:845][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.47.34:862][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.47.34:862][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.47.34:862][783]LogInit: FAudioDevice initialized.
+[2021.08.09-18.47.34:862][783]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.47.34:918][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.47.34:918][783]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.09-18.47.34:920][783]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.09-15.47.34
+[2021.08.09-18.47.34:920][783]LogWorld: Bringing up level for play took: 0.001064
+[2021.08.09-18.47.34:920][783]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.08.09-18.47.34:933][783]PIE: Servidor conectado
+[2021.08.09-18.47.34:935][783]PIE: Play in editor total start time 0,182 seconds.
+[2021.08.09-18.47.41:929][496]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.47.44:715][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.47.44:715][793]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.47.44:715][793]LogSlate: Window 'WT Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.47.44:722][793]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.47.44:722][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.47.44:734][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.47.44:741][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.47.44:781][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.47.44:781][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.47.44:782][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.47.44:806][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.08.09-18.47.44:825][794]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.08.09-18.48.17:713][102]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.48.17:809][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.08.09-18.48.18:284][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.48.18:313][148]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_CharacterE65F4D804CAF7859428FCAA6ECE09A2B.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.48.18:336][148]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.48.18:336][148]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.48.32:188][566]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.48.32:286][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.08.09-18.48.32:748][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.48.32:776][610]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_CharacterB335B932474E099847E1AC8B866A0191.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.48.32:799][610]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.48.32:799][610]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.48.34:694][821]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.09-18.48.34:701][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.48.34:701][821]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (9 de ago de 2021 12:48:34)
+[2021.08.09-18.48.34:701][821]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.48.34:717][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016166s)
+[2021.08.09-18.48.34:718][821]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.48.34:719][821]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2021.08.09-18.48.34:719][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017657s)
+[2021.08.09-18.48.34:768][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.08.09-18.48.34:769][821]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.48.34:769][821]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.48.34:769][821]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.48.34:770][821]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.48.34:770][821]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.48.34:775][821]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.48.34:775][821]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.48.34:786][821]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.48.34:786][821]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.48.34:786][821]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.48.34:786][821]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.48.34:786][821]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.48.34:786][821]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.48.34:786][821]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.48.34:806][821]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.48.34:807][821]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.48.34:807][821]LogInit: FAudioDevice initialized.
+[2021.08.09-18.48.34:807][821]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.48.34:860][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.48.34:860][821]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.09-18.48.34:862][821]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.09-15.48.34
+[2021.08.09-18.48.34:862][821]LogWorld: Bringing up level for play took: 0.001103
+[2021.08.09-18.48.34:862][821]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.08.09-18.48.34:873][821]PIE: Servidor conectado
+[2021.08.09-18.48.34:875][821]PIE: Play in editor total start time 0,175 seconds.
+[2021.08.09-18.48.44:554][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.48.44:554][847]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.48.44:555][847]LogSlate: Window 'WT Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.48.44:558][847]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.48.44:559][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.48.44:565][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.48.44:571][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.48.44:611][847]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.48.44:612][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.48.44:613][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.48.44:636][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.08.09-18.48.44:653][848]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.08.09-18.49.48:039][221]LogEditorTransaction: Undo Mover Nó
+[2021.08.09-18.50.18:410][958]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.50.18:510][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.08.09-18.50.18:870][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.50.18:899][987]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character05D6F1B64DC88EFA30E4D3BBA7F1D372.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.50.18:925][987]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.50.18:925][987]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.51.17:091][349]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.51.17:189][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.08.09-18.51.17:524][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.51.17:555][376]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character650716FD4AE59A5AFD93D79EC2ADACF7.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.51.17:580][376]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.51.17:580][376]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.51.19:685][610]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.09-18.51.19:691][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.51.19:691][610]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (9 de ago de 2021 12:51:19)
+[2021.08.09-18.51.19:691][610]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.51.19:707][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015616s)
+[2021.08.09-18.51.19:709][610]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.51.19:709][610]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2021.08.09-18.51.19:709][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017534s)
+[2021.08.09-18.51.19:759][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.08.09-18.51.19:759][610]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.51.19:760][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.51.19:760][610]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.51.19:760][610]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.51.19:766][610]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.51.19:766][610]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.51.19:779][610]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.51.19:779][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.51.19:779][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.51.19:779][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.51.19:779][610]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.51.19:779][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.51.19:780][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.51.19:797][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.51.19:797][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.51.19:798][610]LogInit: FAudioDevice initialized.
+[2021.08.09-18.51.19:798][610]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.51.19:837][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.51.19:837][610]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.09-18.51.19:839][610]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.09-15.51.19
+[2021.08.09-18.51.19:839][610]LogWorld: Bringing up level for play took: 0.001052
+[2021.08.09-18.51.19:839][610]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.08.09-18.51.19:850][610]PIE: Servidor conectado
+[2021.08.09-18.51.19:852][610]PIE: Play in editor total start time 0,161 seconds.
+[2021.08.09-18.51.30:554][640]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:564][641]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:575][642]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:584][643]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:595][644]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:605][645]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:615][646]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:628][647]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:638][648]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:647][649]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:657][650]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:667][651]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:677][652]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:687][653]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:697][654]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:708][655]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:717][656]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:728][657]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:738][658]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:748][659]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:758][660]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:769][661]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:779][662]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:788][663]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:798][664]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:808][665]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:818][666]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:828][667]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:838][668]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:848][669]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:858][670]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:867][671]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:877][672]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:888][673]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:898][674]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:907][675]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:917][676]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:928][677]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:938][678]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:949][679]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:959][680]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:969][681]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:980][682]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:990][683]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.51.30:998][683]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.51.30:998][683]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.51.36:084][153]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.51.37:438][268]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_CLF_to_N' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.51.38:293][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.51.38:293][358]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.51.38:293][358]LogSlate: Window 'WT Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.51.38:297][358]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.51.38:297][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.51.38:305][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.51.38:313][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.51.38:352][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.51.38:352][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.51.38:353][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.51.38:377][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.08.09-18.51.38:393][359]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.08.09-18.54.32:514][793]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.54.32:611][793]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.08.09-18.54.33:023][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.54.33:054][826]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character7B3BA8E9457F84E7A0968CB13151A62C.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.54.33:079][826]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.54.33:079][826]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.56.03:912][698]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.56.04:010][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.08.09-18.56.04:385][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.56.04:419][729]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character0B71210F48FBAA63A1B825968F68F580.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.56.04:455][729]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.56.04:455][729]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.56.26:339][292]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.56.26:437][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.08.09-18.56.26:821][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.56.26:865][325]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_CharacterD5FD26AC4F12B8918E78749D801D7CAB.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.56.26:915][325]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.56.26:915][325]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.57.12:378][896]BlueprintLog: New page: Compilar BP_Character
+[2021.08.09-18.57.12:478][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.08.09-18.57.12:964][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Source/Character/BP_Character" FILE="../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset" SILENT=true
+[2021.08.09-18.57.12:998][939]LogSavePackage: Moving '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Saved/BP_Character2BC9E70B481C7ADC7007629605DC7EF1.tmp' to '../../../../../../Users/viniv/Documents/GitHub/winter-terrorists/WT/Content/Source/Character/BP_Character.uasset'
+[2021.08.09-18.57.13:022][939]AssetCheck: New page: Asset Save: BP_Character
+[2021.08.09-18.57.13:022][939]LogContentValidation: Display: Validating Blueprint /Game/Source/Character/BP_Character.BP_Character
+[2021.08.09-18.57.25:768][188]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.09-18.57.25:775][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-18.57.25:775][188]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (9 de ago de 2021 12:57:25)
+[2021.08.09-18.57.25:775][188]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.57.25:790][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014900s)
+[2021.08.09-18.57.25:791][188]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-18.57.25:792][188]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2021.08.09-18.57.25:792][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016798s)
+[2021.08.09-18.57.25:845][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.08.09-18.57.25:846][188]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-18.57.25:846][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-18.57.25:846][188]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-18.57.25:846][188]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-18.57.25:852][188]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-18.57.25:852][188]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-18.57.25:865][188]LogAudioMixer: Display: Using Audio Device Panasonic-TV (NVIDIA High Definition Audio)
+[2021.08.09-18.57.25:865][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-18.57.25:865][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-18.57.25:865][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-18.57.25:865][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-18.57.25:865][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-18.57.25:865][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-18.57.25:882][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-18.57.25:882][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-18.57.25:882][188]LogInit: FAudioDevice initialized.
+[2021.08.09-18.57.25:882][188]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-18.57.25:936][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.57.25:936][188]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.08.09-18.57.25:937][188]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.08.09-15.57.25
+[2021.08.09-18.57.25:937][188]LogWorld: Bringing up level for play took: 0.001093
+[2021.08.09-18.57.25:937][188]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.08.09-18.57.25:949][188]PIE: Servidor conectado
+[2021.08.09-18.57.25:951][188]PIE: Play in editor total start time 0,178 seconds.
+[2021.08.09-18.57.33:127][787]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:738][100]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:750][101]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:761][102]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:773][103]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:784][104]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:796][105]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:807][106]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:819][107]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:831][108]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:844][109]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:855][110]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:868][111]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:879][112]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:890][113]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:902][114]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:913][115]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:925][116]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:936][117]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:947][118]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:959][119]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:971][120]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:984][121]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.36:995][122]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:006][123]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:017][124]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:028][125]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:039][126]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:050][127]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:062][128]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:073][129]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:085][130]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:097][131]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:109][132]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:120][133]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:131][134]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:143][135]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:154][136]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:166][137]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:179][138]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:191][139]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:192][139]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.57.37:192][139]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.57.37:202][140]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:214][141]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:226][142]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:227][142]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Character_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2021.08.09-18.57.37:238][143]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.57.37:249][144]LogPhysics: Warning: COLLISION PROFILE [ALS_Character] is not found
+[2021.08.09-18.58.00:999][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-18.58.01:000][155]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-18.58.01:000][155]LogSlate: Window 'WT Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-18.58.01:005][155]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-18.58.01:005][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.58.01:017][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-18.58.01:025][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-18.58.01:066][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-18.58.01:066][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.58.01:067][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-18.58.01:092][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.08.09-18.58.01:112][156]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.09-18.59.20:038][617]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.09-18.59.22:929][617]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.891 s
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: === Handled ensure: ===
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: 
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: Stack: 
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe4773d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe475e2141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe475e0db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe475ee88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe47666b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe47664089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6acffc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6acffaa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:938][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6ad01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6ad01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6acffaa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:939][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6ad01ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a224a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a223dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a226d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a15252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe5a227aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6aac977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6aafb93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6aaca0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6ab21e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ffe6ab21659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.09-18.59.22:940][617]LogOutputDevice: Error: [Callstack] 0x00007ff6d88bae49 UE4Editor.exe!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: [Callstack] 0x00007ff6d88d117c UE4Editor.exe!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: [Callstack] 0x00007ff6d88d125a UE4Editor.exe!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: [Callstack] 0x00007ff6d88e52bd UE4Editor.exe!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: [Callstack] 0x00007ff6d88e7fea UE4Editor.exe!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: [Callstack] 0x00007ffec7597034 KERNEL32.DLL!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: [Callstack] 0x00007ffec8302651 ntdll.dll!UnknownFunction []
+[2021.08.09-18.59.22:941][617]LogOutputDevice: Error: 
